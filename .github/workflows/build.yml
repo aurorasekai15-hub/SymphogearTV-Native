@@ -19,21 +19,12 @@ jobs:
 
     - name: Setup Android SDK
       uses: android-actions/setup-android@v3
-      with:
-        accept-android-sdk-licenses: false
 
-    - name: Accept Android Licenses
-      run: |
-        yes | $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager --licenses || true
-        yes | $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager "build-tools;30.0.3" "platforms;android-30" || true
-
-    - name: Setup Gradle
-      uses: gradle/actions/setup-gradle@v3
-      with:
-        gradle-version: '7.3.3'
+    - name: Make gradlew executable
+      run: chmod +x gradlew
 
     - name: Build Release APK
-      run: gradle assembleRelease
+      run: ./gradlew assembleRelease
 
     - name: Sign APK
       run: |
@@ -41,9 +32,12 @@ jobs:
           -alias symphogear -keyalg RSA -keysize 2048 -validity 10000 \
           -dname "CN=SymphogearTV, OU=TV, O=Symphogear, L=ID, S=ID, C=ID" \
           -storepass symphogear123 -keypass symphogear123 -noprompt
-
-        APKSIGNER=$(find ${ANDROID_HOME}/build-tools/ -name "apksigner" | sort -r | head -1)
-
+        
+        APKSIGNER="${ANDROID_HOME}/build-tools/30.0.3/apksigner"
+        if [ ! -f "$APKSIGNER" ]; then
+          APKSIGNER=$(find ${ANDROID_HOME}/build-tools/ -name "apksigner" | sort -r | head -1)
+        fi
+        
         $APKSIGNER sign \
           --ks symphogear.keystore \
           --ks-pass pass:symphogear123 \
