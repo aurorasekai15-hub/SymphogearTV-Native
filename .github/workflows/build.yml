@@ -14,11 +14,18 @@ jobs:
 
     - uses: actions/setup-java@v4
       with:
-        java-version: '11'
+        java-version: '17'
         distribution: 'temurin'
 
     - name: Setup Android SDK
       uses: android-actions/setup-android@v3
+      with:
+        accept-android-sdk-licenses: false
+
+    - name: Accept Android Licenses
+      run: |
+        yes | $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager --licenses || true
+        yes | $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager "build-tools;30.0.3" "platforms;android-30" || true
 
     - name: Make gradlew executable
       run: chmod +x gradlew
@@ -32,12 +39,9 @@ jobs:
           -alias symphogear -keyalg RSA -keysize 2048 -validity 10000 \
           -dname "CN=SymphogearTV, OU=TV, O=Symphogear, L=ID, S=ID, C=ID" \
           -storepass symphogear123 -keypass symphogear123 -noprompt
-        
-        APKSIGNER="${ANDROID_HOME}/build-tools/30.0.3/apksigner"
-        if [ ! -f "$APKSIGNER" ]; then
-          APKSIGNER=$(find ${ANDROID_HOME}/build-tools/ -name "apksigner" | sort -r | head -1)
-        fi
-        
+
+        APKSIGNER=$(find ${ANDROID_HOME}/build-tools/ -name "apksigner" | sort -r | head -1)
+
         $APKSIGNER sign \
           --ks symphogear.keystore \
           --ks-pass pass:symphogear123 \
@@ -49,4 +53,3 @@ jobs:
       with:
         name: SymphogearTV-Native-APK-${{ github.run_number }}
         path: SymphogearTV.apk
-        
