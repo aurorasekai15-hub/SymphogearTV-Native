@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name" translatable="false">Symphogear TV</string>
+    <string name="app_version" translatable="false">v1.0</string>
+    <string name="website" translatable="false">https://github.com/aurorasekai15-hub/SymphogearTV</string>
+    <string name="iptv_playlist" translatable="false">https://cdn.jsdelivr.net/gh/aurorasekai15-hub/SymphogearTV@main/channels.json</string>
+    <string name="json_release" translatable="false">https://cdn.jsdelivr.net/gh/aurorasekai15-hub/SymphogearTV@main/json/release.json</string>
+    <string name="apk_release" translatable="false">https://github.com/aurorasekai15-hub/SymphogearTV/releases/download/%s/SymphogearTV_%s_b%d.apk</string>
+    <string name="gh_contributors" translatable="false">https://api.github.com/repos/aurorasekai15-hub/SymphogearTV/contributors</string>
+    <string name="main_contributors" translatable="false">aurorasekai15, farismark1245</string>
+
+    <!-- Based on NontonTV by harimurti (credit wajib) -->
+    <string name="credit_original" translatable="false">Based on NontonTV by hariimurti</string>
+
+    <string name="loading">Memuat playlist...</string>
+    <string name="empty">Tidak ada channel</string>
+    <string name="refresh">Refresh</string>
+    <string name="search">Cari channel...</string>
+    <string name="favorite">Favorit</string>
+    <string name="add_to_fav">Tambah ke Favorit</string>
+    <string name="remove_from_fav">Hapus dari Favorit</string>
+    <string name="pin">Pin</string>
+    <string name="unpin">Unpin</string>
+    <string name="play">Putar</string>
+    <string name="error_source">Gagal memuat sumber!</string>
+    <string name="error_playback">Gagal memutar channel!</string>
+    <string name="retrying">Mencoba ulang...</string>
+    <string name="tab_app">Aplikasi</string>
+    <string name="tab_sources">Sumber</string>
+    <string name="tab_about">Tentang</string>
+    <string name="setting_open_last_watched">Buka terakhir ditonton</string>
+    <string name="setting_open_last_watched_summary">Putar otomatis channel terakhir saat buka app</string>
+    <string name="setting_launch_at_boot">Jalankan saat booting</string>
+    <string name="setting_launch_at_boot_summary">Otomatis buka app saat TV Box menyala</string>
+    <string name="setting_sort_favorite">Urutkan favorit</string>
+    <string name="setting_sort_category">Urutkan kategori</string>
+    <string name="setting_sort_channel">Urutkan channel</string>
+    <string name="setting_optimize_prebuffer">Optimasi prebuffer</string>
+    <string name="setting_optimize_prebuffer_summary">Kurangi delay buffering (disarankan untuk TV Box)</string>
+    <string name="setting_reverse_navigation">Balik navigasi</string>
+    <string name="setting_resize_mode">Mode tampilan video</string>
+    <string name="add_source">Tambah Sumber</string>
+    <string name="edit_source">Edit Sumber</string>
+    <string name="delete_source">Hapus</string>
+    <string name="source_path">URL atau Path File</string>
+    <string name="source_active">Aktifkan sumber ini</string>
+    <string name="update_available">Update tersedia!</string>
+    <string name="update_ignore">Abaikan</string>
+    <string name="update_download">Download</string>
+    <string name="about_version">Versi</string>
+    <string name="about_website">Website</string>
+    <string name="about_contributors">Kontributor</string>
+    <string name="about_based_on">Berdasarkan NontonTV oleh hariimurti</string>
+
+    <!-- Strings that must have default value (also exist in values-in) -->
+    <string name="btn_retry">Retry</string>
+    <string name="btn_retry_count">Retry (%d)</string>
+    <string name="no_network">No internet connection!</string>
+    <string name="press_back_twice_exit_app">Press back again to exit app!</string>
+    <string name="press_back_twice_exit_player">Press back again to exit player!</string>
+    <string name="track_selection_title">Select track</string>
+    <string name="error_unsupported">Media includes %s tracks, but none are supported by this device</string>
+    <string name="must_allow_permissions">You must allow all permission requests for this app to work properly!</string>
+    <string name="search_channel">Search Channel</string>
+    <string name="top_category">Top category</string>
+    <string name="bottom_category">Bottom category</string>
+    <string name="playlist_cant_be_parsed">Playlist is empty, cannot be parsed</string>
+    <string name="btn_next_channel">Next Channel</string>
+    <string name="player_error_message" formatted="false">Code: %s&#10;CodeName: %s&#10;Error Message: %s</string>
+    <string name="device_not_support_widevine">Your device does not support Widevine DRM!</string>
+    <string name="favorite_channel">Favorite Channel</string>
+    <string name="removed_from_favorite">%s removed from Favorites</string>
+    <string name="added_into_favorite">%s added to Favorites</string>
+    <string name="already_in_favorite">%s is already in Favorites</string>
+    <string name="status_checking_permission">status: checking permissions...</string>
+    <string name="status_checking_new_update">status: checking latest release...</string>
+    <string name="status_preparing_playlist">status: preparing playlist...</string>
+    <string name="playlist_updated">Playlist updated!</string>
+    <string name="dialog_retry">Retry</string>
+    <string name="dialog_cached">Use cache</string>
+    <string name="player_playback_error">Playback Error</string>
+    <string name="player_no_playlist">We have a problem with the playlist</string>
+    <string name="player_no_channel">No channel to play</string>
+    <string name="player_playdata_error">Cannot process play data</string>
+    <string name="alert_new_update">Update</string>
+    <string name="dialog_download">Download APK</string>
+    <string name="dialog_ignore">Ignore</string>
+    <string name="message_update" formatted="false">Version&#10;Installed: %s (%d)&#10;Latest: %s (%d)&#10;&#10;Changelog:</string>
+    <string name="message_update_no_changelog">other</string>
+    <string name="settings">Settings</string>
+    <string name="input_url">Playlist URL</string>
+    <string name="title_select_file_json">Select Json File</string>
+    <string name="null_playlist">No playlists that can be displayed. Check your settings!</string>
+    <string name="checking_url">checking url...</string>
+    <string name="link_error">Link Error!</string>
+    <string name="link_copied_to_clipboard">Link copied to clipboard!</string>
+    <string name="warning_none_source_active">No active source, default will be activated!</string>
+
+    <!-- Missing strings used in layouts -->
+    <string name="text_presents">Dipersembahkan oleh</string>
+    <string name="app_tagline_one">Nonton IPTV di Android TV</string>
+    <string name="app_tagline_two">Gratis &amp; Open Source</string>
+    <string name="thanks_to">Terima kasih kepada</string>
+    <string name="thanks_for_support">atas dukungan dan kontribusinya</string>
+    <string name="show_hidden">Tampilkan tersembunyi</string>
+    <string name="name_channel">Nama channel</string>
+    <string name="btn_close">Tutup</string>
+    <string name="more_information">Informasi lebih lanjut</string>
+    <string name="button_website">Website</string>
+    <string name="button_telegram">Telegram</string>
+    <string name="startup">Startup</string>
+    <string name="launch_at_boot">Jalankan saat booting</string>
+    <string name="play_last_watched">Putar terakhir ditonton</string>
+    <string name="playlist">Playlist</string>
+    <string name="sort_favorite">Urutkan favorit</string>
+    <string name="sort_category">Urutkan kategori</string>
+    <string name="sort_channel">Urutkan channel</string>
+    <string name="player">Player</string>
+    <string name="optimize_prebuffer">Optimasi prebuffer</string>
+    <string name="reverse_player_navigation">Balik navigasi player</string>
+    <string name="cancel_button_label">Batal</string>
+    <string name="choose_button_label">Pilih</string>
+
+    <!-- String untuk setting_sources_fragment -->
+
+    <!-- String untuk country_list menu -->
+    <string name="indonesia" translatable="false">Indonesia</string>
+    <string name="japan" translatable="false">Japan</string>
+    <string name="malaysia" translatable="false">Malaysia</string>
+    <string name="singapore" translatable="false">Singapore</string>
+    <string name="south_korea" translatable="false">South Korea</string>
+
+    <!-- String untuk screen_resize_mode menu -->
+    <string name="mode_fit">Fit</string>
+    <string name="mode_fixed_width">Fixed Width</string>
+    <string name="mode_fixed_height">Fixed Height</string>
+    <string name="mode_fill">Fill</string>
+    <string name="mode_zoom">Zoom</string>
+</resources>
