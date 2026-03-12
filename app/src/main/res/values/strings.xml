@@ -75,4 +75,21 @@
     <string name="reverse_player_navigation">Balik navigasi player</string>
     <string name="cancel_button_label">Batal</string>
     <string name="choose_button_label">Pilih</string>
+
+    <!-- String untuk setting_sources_fragment -->
+    <string name="input_url">Masukkan URL playlist</string>
+
+    <!-- String untuk country_list menu -->
+    <string name="indonesia" translatable="false">Indonesia</string>
+    <string name="japan" translatable="false">Japan</string>
+    <string name="malaysia" translatable="false">Malaysia</string>
+    <string name="singapore" translatable="false">Singapore</string>
+    <string name="south_korea" translatable="false">South Korea</string>
+
+    <!-- String untuk screen_resize_mode menu -->
+    <string name="mode_fit">Fit</string>
+    <string name="mode_fixed_width">Fixed Width</string>
+    <string name="mode_fixed_height">Fixed Height</string>
+    <string name="mode_fill">Fill</string>
+    <string name="mode_zoom">Zoom</string>
 </resources>
