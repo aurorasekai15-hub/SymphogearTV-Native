@@ -50,5 +50,29 @@
     <string name="about_website">Website</string>
     <string name="about_contributors">Kontributor</string>
     <string name="about_based_on">Berdasarkan NontonTV oleh hariimurti</string>
+
+    <!-- Missing strings used in layouts -->
+    <string name="text_presents">Dipersembahkan oleh</string>
+    <string name="app_tagline_one">Nonton IPTV di Android TV</string>
+    <string name="app_tagline_two">Gratis &amp; Open Source</string>
+    <string name="thanks_to">Terima kasih kepada</string>
+    <string name="thanks_for_support">atas dukungan dan kontribusinya</string>
+    <string name="show_hidden">Tampilkan tersembunyi</string>
+    <string name="name_channel">Nama channel</string>
+    <string name="btn_close">Tutup</string>
+    <string name="more_information">Informasi lebih lanjut</string>
+    <string name="button_website">Website</string>
+    <string name="button_telegram">Telegram</string>
+    <string name="startup">Startup</string>
+    <string name="launch_at_boot">Jalankan saat booting</string>
+    <string name="play_last_watched">Putar terakhir ditonton</string>
+    <string name="playlist">Playlist</string>
+    <string name="sort_favorite">Urutkan favorit</string>
+    <string name="sort_category">Urutkan kategori</string>
+    <string name="sort_channel">Urutkan channel</string>
+    <string name="player">Player</string>
+    <string name="optimize_prebuffer">Optimasi prebuffer</string>
+    <string name="reverse_player_navigation">Balik navigasi player</string>
+    <string name="cancel_button_label">Batal</string>
+    <string name="choose_button_label">Pilih</string>
 </resources>
-      
