@@ -1,0 +1,41 @@
+package com.symphogear.tv.dialog
+
+import android.annotation.SuppressLint
+import android.content.Intent
+import android.net.Uri
+import android.os.Bundle
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import androidx.fragment.app.Fragment
+import com.symphogear.tv.BuildConfig
+import com.symphogear.tv.R
+import com.symphogear.tv.databinding.SettingAboutFragmentBinding
+import com.symphogear.tv.extra.Preferences
+
+class SettingAboutFragment: Fragment() {
+    @SuppressLint("SetTextI18n")
+    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View {
+        val binding = SettingAboutFragmentBinding.inflate(inflater, container, false)
+        binding.textVersion.text = "Symphogear TV v${BuildConfig.VERSION_NAME}"
+        binding.textUsers.text = Preferences().contributors
+        // Credit wajib sesuai lisensi NontonTV
+        try { binding.textCredit?.text = getString(R.string.about_based_on) } catch(e: Exception) {}
+        binding.buttonWebsite.setOnClickListener {
+            openWebsite(getString(R.string.website))
+        }
+        binding.buttonTelegram.setOnClickListener {
+            openWebsite(getString(R.string.telegram_group))
+        }
+
+        return binding.root
+    }
+
+    private fun openWebsite(link: String) {
+        val uriLink = Uri.parse(link)
+        startActivity(
+            Intent(Intent.ACTION_VIEW)
+                .setData(uriLink)
+        )
+    }
+}
