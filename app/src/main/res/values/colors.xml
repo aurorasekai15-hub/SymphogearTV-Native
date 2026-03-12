@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Symphogear TV - Pink/Cyan theme -->
+    <color name="ic_launcher_background">#0D0018</color>
+    <color name="color_primary">#E91E8C</color>
+    <color name="color_accent">#00D4FF</color>
+    <color name="color_dark">#0D0018</color>
+    <color name="color_text">#F0E6FF</color>
+    <color name="color_gray">#2A1040</color>
+    <color name="color_red_light">#FF4081</color>
+    <color name="btn_default">#3D1060</color>
+    <color name="btn_focused">@color/color_primary</color>
+    <color name="btn_pressed">@color/color_accent</color>
+    <color name="control_backgorund">#CC0D0018</color>
+    <color name="control_backgorund_disable">#CC2A1040</color>
+    <color name="osd_inside_background">#FFFFFF</color>
+    <color name="color_background">#080010</color>
+    <color name="color_surface">#120020</color>
+</resources>
