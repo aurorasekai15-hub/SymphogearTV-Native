@@ -1,0 +1,52 @@
+name: Build SymphogearTV APK
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - uses: actions/setup-java@v4
+      with:
+        java-version: '11'
+        distribution: 'temurin'
+
+    - name: Setup Android SDK
+      uses: android-actions/setup-android@v3
+
+    - name: Make gradlew executable
+      run: chmod +x gradlew
+
+    - name: Build Release APK
+      run: ./gradlew assembleRelease
+
+    - name: Sign APK
+      run: |
+        keytool -genkey -v -keystore symphogear.keystore \
+          -alias symphogear -keyalg RSA -keysize 2048 -validity 10000 \
+          -dname "CN=SymphogearTV, OU=TV, O=Symphogear, L=ID, S=ID, C=ID" \
+          -storepass symphogear123 -keypass symphogear123 -noprompt
+        
+        APKSIGNER="${ANDROID_HOME}/build-tools/30.0.3/apksigner"
+        if [ ! -f "$APKSIGNER" ]; then
+          APKSIGNER=$(find ${ANDROID_HOME}/build-tools/ -name "apksigner" | sort -r | head -1)
+        fi
+        
+        $APKSIGNER sign \
+          --ks symphogear.keystore \
+          --ks-pass pass:symphogear123 \
+          --key-pass pass:symphogear123 \
+          --out SymphogearTV.apk \
+          app/build/outputs/apk/release/*.apk
+
+    - uses: actions/upload-artifact@v4
+      with:
+        name: SymphogearTV-Native-APK-${{ github.run_number }}
+        path: SymphogearTV.apk
+        
