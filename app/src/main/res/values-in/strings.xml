@@ -25,7 +25,7 @@
     <string name="bottom_category">Kategori paling bawah</string>
     <string name="playlist_cant_be_parsed">Playlist tidak ada, tidak bisa diuraikan?</string>
     <string name="btn_next_channel">Saluran Berikutnya</string>
-    <string name="player_error_message">Kode : %s\nNamaKode : %s\nPesan Error : %s</string>
+    <string name="player_error_message" formatted="false">Kode : %s\nNamaKode : %s\nPesan Error : %s</string>
     <string name="device_not_support_widevine">Perangkat anda tidak mendukung DRM Widevine!</string>
     <string name="favorite_channel">Saluran Favorit</string>
     <string name="removed_from_favorite">%s telah dihapus dari Favorit</string>
@@ -48,7 +48,7 @@
     <string name="alert_new_update">Pembaharuan</string>
     <string name="dialog_download">Unduh APK</string>
     <string name="dialog_ignore">Abaikan</string>
-    <string name="message_update">Versi\nâ€¢ Terpasang : %s (%d)\nâ€¢ Terkini : %s (%d)\n\nPerubahan :</string>
+    <string name="message_update" formatted="false">Versi\nâ€¢ Terpasang : %s (%d)\nâ€¢ Terkini : %s (%d)\n\nPerubahan :</string>
     <string name="message_update_no_changelog">\nâ€¢ lain-lain</string>
 
     <!-- settings -->
