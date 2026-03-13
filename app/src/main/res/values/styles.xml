@@ -50,4 +50,26 @@
         <item name="android:layout_marginTop">@dimen/btn_main_margin_top</item>
     </style>
 
+
+    <style name="ResBtn" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">26dp</item>
+        <item name="android:textSize">9sp</item>
+        <item name="android:textColor">#80f0e6ff</item>
+        <item name="android:backgroundTint">#1Affffff</item>
+        <item name="android:paddingStart">6dp</item>
+        <item name="android:paddingEnd">6dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+
+    <style name="TopBtn" parent="Widget.AppCompat.ImageButton">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:background">@drawable/button_rounded_background</item>
+        <item name="android:tint">#80f0e6ff</item>
+        <item name="android:padding">6dp</item>
+    </style>
+
 </resources>
