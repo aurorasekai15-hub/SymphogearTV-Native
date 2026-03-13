@@ -325,10 +325,10 @@ class PlayerActivity : AppCompatActivity() {
                             hexToBytes(kv[1].trim()),
                             android.util.Base64.NO_PADDING or android.util.Base64.URL_SAFE or android.util.Base64.NO_WRAP)
                         if (i > 0) keysJson.append(",")
-                        keysJson.append("{"kty":"oct","kid":"$kidB64","k":"$keyB64"}")
+                        keysJson.append("{\"kty\":\"oct\",\"kid\":\"$kidB64\",\"k\":\"$keyB64\"}")
                     }
                 }
-                keysJson.append("],"type":"temporary"}")
+                keysJson.append("],\"type\":\"temporary\"}")
                 val licenseBytes = keysJson.toString().toByteArray(Charsets.UTF_8)
                 // LocalMediaDrmCallback: langsung inject license JSON tanpa network
                 val drmCallback = com.google.android.exoplayer2.drm.LocalMediaDrmCallback(licenseBytes)
