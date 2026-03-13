@@ -1,34 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:bottom="@dimen/btn_background_padding"
-        android:left="@dimen/btn_background_padding"
-        android:right="@dimen/btn_background_padding"
-        android:top="@dimen/btn_background_padding">
-        <selector>
-            <item
-                android:state_pressed="true"
-                android:state_enabled="true">
-                <shape android:shape="rectangle">
-                    <solid android:color="@color/btn_pressed" />
-                    <corners android:radius="@dimen/btn_corner_radius" />
-                </shape>
-            </item>
-            <item
-                android:state_focused="true"
-                android:state_enabled="true">
-                <shape android:shape="rectangle">
-                    <solid android:color="@color/btn_focused" />
-                    <corners android:radius="@dimen/btn_corner_radius" />
-                </shape>
-            </item>
-            <item
-                android:state_enabled="true">
-                <shape android:shape="rectangle">
-                    <solid android:color="@color/btn_default" />
-                    <corners android:radius="@dimen/btn_corner_radius" />
-                </shape>
-            </item>
-        </selector>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true">
+        <shape><solid android:color="#1E1E1E"/><stroke android:width="1.5dp" android:color="#C8A84B"/><corners android:radius="6dp"/></shape>
     </item>
-</layer-list>
+    <item android:state_pressed="true">
+        <shape><solid android:color="#252015"/><corners android:radius="6dp"/></shape>
+    </item>
+    <item>
+        <shape><solid android:color="#141414"/><stroke android:width="0.5dp" android:color="#22FFFFFF"/><corners android:radius="6dp"/></shape>
+    </item>
+</selector>
