@@ -74,4 +74,13 @@
     <string name="link_copied_to_clipboard">Tautan disalin ke papan klip!</string>
     <string name="warning_none_source_active">Tidak ada sumber yang aktif, default akan diaktifkan!</string>
     <string name="more_information">Informasi Lain :</string>
+
+    <!-- Language settings -->
+    <string name="language">Bahasa</string>
+    <string name="language_id">Indonesia</string>
+    <string name="language_en">Inggris</string>
+    <string name="language_ja">Jepang</string>
+    <string name="language_ms">Melayu</string>
+    <string name="select_language">Pilih Bahasa</string>
+    <string name="language_restart_note">Aplikasi akan restart untuk menerapkan perubahan bahasa</string>
 </resources>
