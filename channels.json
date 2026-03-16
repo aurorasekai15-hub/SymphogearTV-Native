@@ -97,8 +97,8 @@
       "q": "HD",
       "drm": false,
       "type": "hls",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Indosiar.svg/240px-Indosiar.svg.png",
-      "url": "https://5b6c7cd1ed6f4.streamlock.net/live/smil:indosiar.smil/playlist.m3u8",
+      "logo": "https://i.ibb.co.com/xjNQwrH/indosiar.png",
+      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd",
       "desc": "INDOSIAR HLS",
       "tvgId": "Indosiar.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
