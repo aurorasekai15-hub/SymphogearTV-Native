@@ -193,17 +193,20 @@
     },
     {
       "id": 109,
+      "id": 109,
       "name": "iNEWS TV",
-      "cat": "nasional",
+      "cat": "berita",
       "color": "#e91e8c",
       "q": "HD",
-      "drm": false,
-      "type": "hls",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/INews_logo.svg/240px-INews_logo.svg.png",
-      "url": "https://live-inews.akamaized.net/hls/live/2093547/inews/index.m3u8",
-      "desc": "iNEWS TV HLS",
-      "tvgId": "iNews.id",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+      "drm": true,
+      "type": "dash",
+      "logo": "https://i.ibb.co.com/d6sfBLj/inews.png",
+      "url": "https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd",
+      "desc": "iNEWS TV DASH+ClearKey (Vision+)",
+      "tvgId": "iNEWS TV.visionplus",
+      "drmType": "ClearKey",
+      "licUrl": "8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     },
     {
       "id": 110,
