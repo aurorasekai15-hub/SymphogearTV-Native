@@ -211,14 +211,14 @@
     {
       "id": 110,
       "name": "HBO",
-      "cat": "Indihome",
+      "cat": "HBO Group",
       "color": "#e91e8c",
       "q": "HD",
       "drm": false,
       "type": "hls",
       "logo": "https://i.ibb.co.com/wzNw0zL/hbo.png",
       "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd",
-      "desc": "TVRI NASIONAL HLS",
+      "desc": "HBO HLS",
       "tvgId": "TVRI.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     },
