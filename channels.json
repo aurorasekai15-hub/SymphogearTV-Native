@@ -219,7 +219,7 @@
       "logo": "https://i.ibb.co.com/wzNw0zL/hbo.png",
       "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd",
       "desc": "HBO HLS",
-      "tvgId": "TVRI.id",
+      "tvgId": "HBO.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     },
     {
@@ -471,7 +471,7 @@
     {
       "id": 126,
       "name": "ANIMAX Vision+",
-      "cat": "Animax & Aniplus",
+      "cat": "Anime",
       "color": "#7df9ff",
       "q": "HD",
       "drm": true,
@@ -503,7 +503,7 @@
     {
       "id": 128,
       "name": "ANIPLUS IndiHome",
-      "cat": "Animax & Aniplus",
+      "cat": "Anime",
       "color": "#ff6eb4",
       "q": "HD",
       "drm": true,
