@@ -525,7 +525,7 @@
       "drm": false,
       "type": "hls",
       "logo": "https://i.ibb.co.com/B5PgHPL5/at-x.png",
-      "url": "https://vnpt.nekocdn.xyz/memfs/934473ee-a4c0-40be-bae1-5c692023c2bd.m3u8?checkedby:iptvcat.com",
+      "url": "http://194.233.72.249:8080/AT-X/index.m3u8",
       "desc": "AT-X HLS",
       "tvgId": "AT-X.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
