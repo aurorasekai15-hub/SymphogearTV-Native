@@ -242,13 +242,15 @@
       "cat": "nasional",
       "color": "#e91e8c",
       "q": "HD",
-      "drm": false,
-      "type": "hls",
+      "drm": true,
+      "type": "dash",
       "logo": "https://i.ibb.co.com/b1tcbgm/rtv.png",
-      "url": "https://stream.rtv.co.id/hls/rtv.m3u8",
-      "desc": "RTV HLS",
-      "tvgId": "RTV.id",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+      "url": "https://fta3-cdn-flr.visionplus.id/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd",
+      "desc": "RTV DASH+ClearKey (Vision+)",
+      "tvgId": "RTV.visionplus",
+      "drmType": "ClearKey",
+      "licUrl": "87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     },
     {
       "id": 113,
