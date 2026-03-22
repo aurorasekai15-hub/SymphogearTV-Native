@@ -392,19 +392,19 @@
     },
     {
       "id": 125,
-      "name": "ANIMAX",
-      "cat": "jepang",
-      "color": "#f97316",
+      "name": "Nickelodeon",
+      "cat": "Kids",
+      "color": "#e91e8c",
       "q": "HD",
       "drm": true,
       "type": "dash",
-      "logo": "https://i.ibb.co.com/DgC0xN3/animax.png",
-      "url": "https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd",
-      "desc": "ANIMAX DASH+ClearKey (sysln)",
-      "tvgId": "Animax.id",
+      "logo": "https://i.ibb.co.com/tJ27PX5/nick.png",
+      "url": "https://fta2-cdn-flr.visionplus.id/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd",
+      "desc": "Nickelodeon DASH+ClearKey (Vision+)",
+      "tvgId": "Nickelodeon.visionplus",
       "drmType": "ClearKey",
-      "licUrl": "ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095",
-      "ua": "ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"
+      "licUrl": "676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     },
     {
       "id": 127,
