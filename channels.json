@@ -350,16 +350,16 @@
     },
     {
       "id": 120,
-      "name": "FRANCE 24 ENGLISH",
-      "cat": "internasional",
+      "name": "TV Tokyo",
+      "cat": "jepang",
       "color": "#ffd700",
       "q": "HD",
       "drm": false,
       "type": "hls",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/France24_English-logo.svg/240px-France24_English-logo.svg.png",
-      "url": "https://stream.france24.com/hls/live/2037028/F24_EN_LO_HLS/master.m3u8",
-      "desc": "FRANCE 24 ENGLISH HLS",
-      "tvgId": "France24.en",
+      "logo": "https://i.ibb.co.com/bgTJSdCV/TV-Tokyo-logo-20110629-svg.png",
+      "url": "http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07",
+      "desc": "TV Tokyo HLS",
+      "tvgId": "TV Tokyo.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     },
     {
