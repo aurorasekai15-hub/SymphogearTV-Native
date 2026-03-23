@@ -230,8 +230,8 @@
       "q": "HD",
       "drm": false,
       "type": "hls",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/NET._logo_%282016%29.svg/240px-NET._logo_%282016%29.svg.png",
-      "url": "https://netmediatama-lh.akamaihd.net/i/nettv_1@326804/master.m3u8",
+      "logo": "https://i.ibb.co.com/mVR63q3t/mdtv.png",
+      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/net/manifest.mpd",
       "desc": "NET TV HLS",
       "tvgId": "NETTV.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
@@ -258,8 +258,8 @@
       "q": "HD",
       "drm": false,
       "type": "hls",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVRI_2019_logo.svg/240px-TVRI_2019_logo.svg.png",
-      "url": "https://tvriolahraga-lh.akamaihd.net/i/tvriolahraga_1@640513/master.m3u8",
+      "logo": "https://i.ibb.co.com/4F68vbH/tvri.png",
+      "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
       "desc": "TVRI SPORT HLS",
       "tvgId": "TVRISport.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
