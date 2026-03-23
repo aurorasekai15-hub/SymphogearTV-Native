@@ -288,8 +288,8 @@
       "q": "HD",
       "drm": false,
       "type": "hls",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Tvone_logo_2020.svg/240px-Tvone_logo_2020.svg.png",
-      "url": "https://tvone-lh.akamaihd.net/i/tvone_1@304699/master.m3u8",
+      "logo": "https://i.ibb.co.com/HFjSW0t/tvone.png",
+      "url": "http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8",
       "desc": "TV ONE HLS",
       "tvgId": "TVOne.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
