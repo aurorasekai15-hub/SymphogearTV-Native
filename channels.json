@@ -253,7 +253,7 @@
     {
       "id": 113,
       "name": "TVRI SPORT",
-      "cat": "nasional",
+      "cat": "sport",
       "color": "#e91e8c",
       "q": "HD",
       "drm": false,
@@ -266,17 +266,19 @@
     },
     {
       "id": 114,
-      "name": "METRO TV",
+      "name": "Metro TV",
       "cat": "berita",
-      "color": "#00d4ff",
+      "color": "#e91e8c",
       "q": "HD",
-      "drm": false,
-      "type": "hls",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Metro_TV_Indonesia.svg/240px-Metro_TV_Indonesia.svg.png",
-      "url": "https://metrotv-lh.akamaihd.net/i/metrotv_1@304692/master.m3u8",
-      "desc": "METRO TV HLS",
-      "tvgId": "MetroTV.id",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+      "drm": true,
+      "type": "dash",
+      "logo": "https://i.ibb.co.com/G9NY1P4/metrotv.png",
+      "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd",
+      "desc": "Metro TV DASH+ClearKey (Vision+)",
+      "tvgId": "Metro TV.visionplus",
+      "drmType": "ClearKey",
+      "licUrl": "c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     },
     {
       "id": 115,
