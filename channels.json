@@ -267,7 +267,7 @@
     {
       "id": 114,
       "name": "Metro TV",
-      "cat": "berita",
+      "cat": "nasional",
       "color": "#e91e8c",
       "q": "HD",
       "drm": true,
@@ -283,7 +283,7 @@
     {
       "id": 115,
       "name": "TV ONE",
-      "cat": "berita",
+      "cat": "nasional",
       "color": "#00d4ff",
       "q": "HD",
       "drm": false,
@@ -297,7 +297,7 @@
     {
       "id": 116,
       "name": "KOMPAS TV",
-      "cat": "berita",
+      "cat": "nasional",
       "color": "#00d4ff",
       "q": "HD",
       "drm": false,
@@ -311,7 +311,7 @@
     {
       "id": 117,
       "name": "CNN INDONESIA",
-      "cat": "berita",
+      "cat": "nasional",
       "color": "#00d4ff",
       "q": "HD",
       "drm": false,
