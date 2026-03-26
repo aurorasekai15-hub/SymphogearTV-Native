@@ -531,6 +531,20 @@
       "desc": "AT-X HLS",
       "tvgId": "AT-X.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
-    }
+    },
+    {
+      "id": 130,
+      "name": "TRANS TV Indihome",
+      "cat": "Nasional",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://i.ibb.co.com/k3S01Fh/transtv.png",
+      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd",
+      "desc": " HLS",
+      "tvgId": "TRANS TV Indihome.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+  }
   ]
 }
