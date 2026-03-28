@@ -561,6 +561,22 @@
       "drmType": "ClearKey",
       "licUrl": "ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58",
       "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
-    }
+    },
+    {
+      "id": 132,
+      "name": "Dunia anak",
+      "cat": "Kids",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://i.ibb.co.com/xXxyBrv/dunianak.png",
+      "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd",
+      "desc": "Dunia anak DASH+ClearKey (Indihome)",
+      "tvgId": "Dunia anak.indihome",
+      "drmType": "ClearKey",
+      "licUrl": "24e63424fa264ceb9bc6215c0fe860e6:41427f48bce4ffa2ad1b435d9190c199",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+      }
   ]
 }
