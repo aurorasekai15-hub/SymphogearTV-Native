@@ -545,6 +545,22 @@
       "desc": "TRANS TV Indihome HLS",
       "tvgId": "TRANS TV Indihome.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
-  }
+  },
+  {
+    "id": 131,
+      "name": "Dreamworks",
+      "cat": "Kids",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://i.ibb.co.com/932vZfR/dreamworks.png",
+      "url": "https://fta3-cdn-flr.visionplus.id/out/v1/7518da9041c4414d86f173daa719152e/index.mpd",
+      "desc": "Dreamworks DASH+ClearKey (Vision+)",
+      "tvgId": "Dreamworks.visionplus",
+      "drmType": "ClearKey",
+      "licUrl": "ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    }
   ]
 }
