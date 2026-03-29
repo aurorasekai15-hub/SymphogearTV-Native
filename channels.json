@@ -209,7 +209,7 @@
     {
       "id": 110,
       "name": "HBO",
-      "cat": "HBO Group",
+      "cat": "Movies & Entertainment",
       "color": "#e91e8c",
       "q": "HD",
       "drm": false,
@@ -545,9 +545,9 @@
       "desc": "TRANS TV Indihome HLS",
       "tvgId": "TRANS TV Indihome.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
-  },
-  {
-    "id": 131,
+   },
+   {
+      "id": 131,
       "name": "Dreamworks",
       "cat": "Kids",
       "color": "#e91e8c",
@@ -576,6 +576,54 @@
       "tvgId": "Dunia anak.indihome",
       "drmType": "ClearKey",
       "licUrl": "24e63424fa264ceb9bc6215c0fe860e6:41427f48bce4ffa2ad1b435d9190c199",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+      },
+      {
+      "id": 133,
+      "name": "Mentari TV",
+      "cat": "Kids",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://i.ibb.co.com/XYH1m9q/mentaritv.png",
+      "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd",
+      "desc": "Mentari TV DASH+ClearKey (Indihome)",
+      "tvgId": "Mentari TV.indihome",
+      "drmType": "ClearKey",
+      "licUrl": "d96a81a887fd46f1b18e1fd48c2eeb81:fb8947a8804c874cc0f0b71bdb609ca0",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+      },
+      {
+      "id": 134,
+      "name": "Nick Jr",
+      "cat": "Kids",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://i.ibb.co.com/Gkz5wjx/nickjr.png",
+      "url": "https://fta1-cdn-flr.visionplus.id/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd",
+      "desc": "Nick Jr DASH+ClearKey (Vision+)",
+      "tvgId": "Nick Jr.vision+",
+      "drmType": "ClearKey",
+      "licUrl": "c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+      },
+      {
+      "id": 135,
+      "name": "Bioskop Indonesia",
+      "cat": "Movies & Entertainment",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://i.ibb.co.com/Yf7XNzn/bioskopid.png",
+      "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia_dash/manifest.mpd",
+      "desc": "Bioskop Indonesia DASH+ClearKey (Indihome)",
+      "tvgId": "Bioskop Indonesia.indihome",
+      "drmType": "ClearKey",
+      "licUrl": "7fc74162f12d430fad0513d9d5c1bdd5:b195817a10d9b592eb002543cdcdeaf6",
       "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
       }
   ]
