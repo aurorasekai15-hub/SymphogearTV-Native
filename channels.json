@@ -641,7 +641,23 @@
       "drmType": "ClearKey",
       "licUrl": "33e5bead1364469aa10625a95f512d44:4bad449e73fde62396a03b9d82f81b7f",
       "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
-      }
+      },
+      {
+      "id": 137,
+      "name": "NET TV",
+      "cat": "nasional",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn2A9ip5ces3kmUiiTDhTh5C7obSlYdtsT3MPIgqtI33Gzn3YT28DGA0C9O0icpc-fLpwuFeJWdczQlVsYjTgtAK4dpbiIUZru-NliiyD7-BAK_uZ3IadFWM2mo0gaDXXvqcCn1rHSA7Ps0z_NVPJjSWszPox0EwWgtSH-fQiC0_9DAJbIJmxrTEi-1r5u/s700/MDTV.png",
+      "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd",
+      "desc": "NET TV DASH+ClearKey (Vision+)",
+      "tvgId": "NET TV.vision+",
+      "drmType": "ClearKey",
+      "licUrl": "91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+     }
   ]
 }
 
