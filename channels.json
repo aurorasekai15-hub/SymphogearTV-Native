@@ -657,7 +657,22 @@
       "drmType": "ClearKey",
       "licUrl": "2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229",
       "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
-     }
-  ]
+     },
+     {
+      "id": 138,
+      "name": "Maxstream",
+      "cat": "Movies & Entertainment",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://i.ibb.co.com/p2YtMKb/maxstrm.png",
+      "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/maxstream/manifest.mpd",
+      "desc": "Maxstream DASH+ClearKey (Indihome)",
+      "tvgId": "Maxstream.indihome",
+      "drmType": "ClearKey",
+      "licUrl": "727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+  }
+ ]
 }
-
