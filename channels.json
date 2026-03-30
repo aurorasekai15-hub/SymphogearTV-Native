@@ -660,18 +660,18 @@
      },
      {
       "id": 138,
-      "name": "Maxstream",
+      "name": "Galaxy",
       "cat": "Movies & Entertainment",
       "color": "#e91e8c",
       "q": "HD",
       "drm": true,
       "type": "dash",
       "logo": "https://i.ibb.co.com/p2YtMKb/maxstrm.png",
-      "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/maxstream/manifest.mpd",
-      "desc": "Maxstream DASH+ClearKey (Indihome)",
-      "tvgId": "Maxstream.indihome",
+      "url": "https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd",
+      "desc": "Galaxy DASH+ClearKey (Vision+)",
+      "tvgId": "Galaxy.vision+",
       "drmType": "ClearKey",
-      "licUrl": "727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03",
+      "licUrl": "cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36",
       "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
   }
  ]
