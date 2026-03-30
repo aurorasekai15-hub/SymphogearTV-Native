@@ -687,6 +687,20 @@
       "desc": "Garuda TV HLS",
       "tvgId": "Garuda TV.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 140,
+      "name": "TV Kesehatan",
+      "cat": "nasional",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://i.ibb.co.com/VWCxMjd/tvkesehatan.png",
+      "url": "https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8",
+      "desc": "TV Kesehatan HLS",
+      "tvgId": "TV Kesehatan.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
