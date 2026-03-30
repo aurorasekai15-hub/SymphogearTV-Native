@@ -673,6 +673,20 @@
       "drmType": "ClearKey",
       "licUrl": "cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36",
       "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 139,
+      "name": "Garuda TV",
+      "cat": "nasional",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/garuda.png",
+      "url": "https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8",
+      "desc": "Garuda TV HLS",
+      "tvgId": "Garuda TV.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
