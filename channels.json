@@ -788,6 +788,20 @@
       "drmType": "ClearKey",
       "licUrl": "834ec3cbface4fe992e995a32d35f587:e0a97198d9f2dfcb0a0483cd4b04414b",
       "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 147,
+      "name": "Berita Satu",
+      "cat": "NASIONAL",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://i.ibb.co.com/C26wQ5D/berita1.png",
+      "url": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8",
+      "desc": "Berita Satu HLS",
+      "tvgId": "Berita Satu.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
