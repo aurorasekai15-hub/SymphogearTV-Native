@@ -772,6 +772,22 @@
       "desc": "Banjar TV HLS",
       "tvgId": "Banjar TV.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 146,
+      "name": "NBA TV",
+      "cat": "SPORT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/250px-NBA_TV.svg.png",
+      "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/nba/manifest.mpd",
+      "desc": "NBA TV DASH+ClearKey (Indihome)",
+      "tvgId": "NBA TV.indihome",
+      "drmType": "ClearKey",
+      "licUrl": "834ec3cbface4fe992e995a32d35f587:e0a97198d9f2dfcb0a0483cd4b04414b",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
