@@ -728,6 +728,20 @@
       "desc": "HBO FAMILY HLS",
       "tvgId": "HBO FAMILY.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 143,
+      "name": "Live",
+      "cat": "Live Event",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "",
+      "url": "https://freeiptv2026.tsender57.workers.dev",
+      "desc": "Live Event HLS",
+      "tvgId": "Live Event.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
