@@ -714,6 +714,20 @@
       "desc": "TVRI SPORT HLS",
       "tvgId": "TVRISport.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 142,
+      "name": "HBO FAMILY",
+      "cat": "MOVIES & ENTERTAINMENT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://i.ibb.co.com/wzNw0zL/hbo.png",
+      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd",
+      "desc": "HBO FAMILY HLS",
+      "tvgId": "HBO FAMILY.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
