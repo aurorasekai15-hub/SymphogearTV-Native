@@ -830,6 +830,20 @@
       "desc": "RRINET HLS",
       "tvgId": "RRINET.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 150,
+      "name": "ASTRO ARENA",
+      "cat": "SPORT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://i.imgur.com/jVooopM.jpg",
+      "url": "https://zozotv.xyz:443/live/ZZA21216/zxe36880/154.ts",
+      "desc": "ASTRO ARENA HLS",
+      "tvgId": "ASTRO ARENA.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
