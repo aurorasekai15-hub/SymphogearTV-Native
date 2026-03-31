@@ -253,17 +253,19 @@
     },
     {
       "id": 115,
-      "name": "TV ONE",
+      "name": "TV One",
       "cat": "NASIONAL",
-      "color": "#00d4ff",
+      "color": "#e91e8c",
       "q": "HD",
-      "drm": false,
-      "type": "hls",
+      "drm": true,
+      "type": "dash",
       "logo": "https://i.ibb.co.com/HFjSW0t/tvone.png",
-      "url": "https://wowza.dpr.go.id/golive/livestream/playlist.m3u8",
-      "desc": "TV ONE HLS",
-      "tvgId": "TVOne.id",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+      "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd",
+      "desc": "TV One DASH+ClearKey (Vision+)",
+      "tvgId": "TV One.vision+",
+      "drmType": "ClearKey",
+      "licUrl": "eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     },
     {
       "id": 116,
