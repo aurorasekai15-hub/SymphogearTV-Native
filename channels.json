@@ -731,16 +731,16 @@
     },
     {
       "id": 143,
-      "name": "Live",
-      "cat": "Live Event",
+      "name": "HBO HITS",
+      "cat": "MOVIES & ENTERTAINMENT",
       "color": "#e91e8c",
       "q": "HD",
       "drm": false,
       "type": "hls",
-      "logo": "",
-      "url": "https://freeiptv2026.tsender57.workers.dev",
-      "desc": "Live Event HLS",
-      "tvgId": "Live Event.id",
+      "logo": "https://i.ibb.co.com/tMw7TZj/hbohits.png",
+      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd",
+      "desc": "HBO HITS HLS",
+      "tvgId": "HBO HITS.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
