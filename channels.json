@@ -932,6 +932,22 @@
       "drmType": "ClearKey",
       "licUrl": "3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407",
       "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 157,
+      "name": "SPOTV 1",
+      "cat": "SPORT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://object-streamo.emonaja.com/img/spotv.png",
+      "url": "https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
+      "desc": "SPOTV 1 DASH+ClearKey (Vision+)",
+      "tvgId": "SPOTV 1.vision+",
+      "drmType": "ClearKey",
+      "licUrl": "3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
