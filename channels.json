@@ -916,6 +916,22 @@
       "drmType": "ClearKey",
       "licUrl": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
       "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 156,
+      "name": "SPOTV Now",
+      "cat": "SPORT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://object-streamo.emonaja.com/img/spotv.png",
+      "url": "https://svod.mana2.my/SpotvNow/index.mpd",
+      "desc": "SPOTV Now DASH+ClearKey (Indihome)",
+      "tvgId": "SPOTV Now.indihome",
+      "drmType": "ClearKey",
+      "licUrl": "3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
