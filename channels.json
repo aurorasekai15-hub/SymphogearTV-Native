@@ -895,13 +895,15 @@
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
-      "drm": false,
-      "type": "hls",
-      "logo": "https://images.indihometv.com/assets/88_TRANS7_2025_03_19_08_29_53.png",
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd",
-      "desc": "Trans7 Indihome HLS",
-      "tvgId": "Trans7 Indihome.id",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+      "drm": true,
+      "type": "dash",
+      "logo": "https://object-streamo.emonaja.com/img/trans7.png",
+      "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/trans7/manifest_wuseetv.mpd",
+      "desc": "Trans7 Indihome DASH+ClearKey (Indihome)",
+      "tvgId": "Trans7 Indihome.indihome",
+      "drmType": "ClearKey",
+      "licUrl": "c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     },
     {
       "id": 155,
