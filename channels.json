@@ -900,6 +900,22 @@
       "desc": "Trans7 Indihome HLS",
       "tvgId": "Trans7 Indihome.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 155,
+      "name": "TNT Sports 1",
+      "cat": "SPORT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://object-streamo.emonaja.com/img/tntsports.png",
+      "url": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+      "desc": "TNT Sports 1 DASH+ClearKey (Indihome)",
+      "tvgId": "TNT Sports 1.indihome",
+      "drmType": "ClearKey",
+      "licUrl": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
