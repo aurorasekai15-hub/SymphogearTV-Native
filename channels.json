@@ -387,17 +387,19 @@
     },
     {
       "id": 130,
-      "name": "TRANS TV Indihome",
+      "name": "Trans TV Indihome",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
-      "drm": false,
-      "type": "hls",
-      "logo": "https://i.ibb.co.com/k3S01Fh/transtv.png",
-      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd",
-      "desc": "TRANS TV Indihome HLS",
-      "tvgId": "TRANS TV Indihome.id",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+      "drm": true,
+      "type": "dash",
+      "logo": "https://object-streamo.emonaja.com/img/transtv.png",
+      "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest_wuseetv.mpd",
+      "desc": "Trans TV Indihome DASH+ClearKey (Indihome)",
+      "tvgId": "Trans TV Indihome.indihome",
+      "drmType": "ClearKey",
+      "licUrl": "685d124959a94f89872760636a868956:5cda423e983403ee02b24ac8643470ee",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     },
     {
       "id": 139,
