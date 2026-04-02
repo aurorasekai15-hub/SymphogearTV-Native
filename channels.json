@@ -980,6 +980,48 @@
       "desc": "PROLIGA HLS",
       "tvgId": "Apple TV.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 160,
+      "name": "VTV",
+      "cat": "NASIONAL",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://thumb.viva.id/jagodangdut/1265x711/2023/10/23/65367acabc267-tv-digital-vtv_jagodangdut.jpg",
+      "url": "https://flv.intechmedia.net/live/ch107.m3u8",
+      "desc": "VTV HLS",
+      "tvgId": "VTV.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 161,
+      "name": "CNBC",
+      "cat": "NASIONAL",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://awsimages.detik.net.id/visual/2018/02/08/707668e4-5770-4679-9b4b-9ff343b68eb6_169.jpeg?w=650",
+      "url": "http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162137",
+      "desc": "CNBC HLS",
+      "tvgId": "CNBC.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 162,
+      "name": "TVR PARLEMEN",
+      "cat": "NASIONAL",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGDYS2MYZgeSD3AQQaqgFfct__yZmC7Kk43w&s",
+      "url": "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
+      "desc": "TVR PARLEMEN HLS",
+      "tvgId": "TVR PARLEMEN.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
