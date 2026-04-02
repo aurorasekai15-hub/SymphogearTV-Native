@@ -1025,7 +1025,7 @@
     },
     {
       "id": 163,
-      "name": "Sportstars",
+      "name": "Sportstars (VS)",
       "cat": "SPORT",
       "color": "#e91e8c",
       "q": "HD",
@@ -1041,7 +1041,7 @@
     },
     {
       "id": 164,
-      "name": "Soccer Channel",
+      "name": "Soccer Channel (VS)",
       "cat": "SPORT",
       "color": "#e91e8c",
       "q": "HD",
@@ -1057,7 +1057,7 @@
     },
     {
       "id": 165,
-      "name": "DISNEY CHANNEL",
+      "name": "DISNEY CHANNEL (VS)",
       "cat": "KIDS",
       "color": "#e91e8c",
       "q": "HD",
