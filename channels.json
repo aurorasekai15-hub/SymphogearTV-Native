@@ -393,7 +393,7 @@
       "q": "HD",
       "drm": true,
       "type": "dash",
-      "logo": "https://object-streamo.emonaja.com/img/transtv.png",
+      "logo": "https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png",
       "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest_wuseetv.mpd",
       "desc": "Trans TV Indihome DASH+ClearKey (Indihome)",
       "tvgId": "Trans TV Indihome.indihome",
@@ -897,7 +897,7 @@
       "q": "HD",
       "drm": true,
       "type": "dash",
-      "logo": "https://object-streamo.emonaja.com/img/trans7.png",
+      "logo": "https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg",
       "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/trans7/manifest_wuseetv.mpd",
       "desc": "Trans7 Indihome DASH+ClearKey (Indihome)",
       "tvgId": "Trans7 Indihome.indihome",
@@ -945,7 +945,7 @@
       "q": "HD",
       "drm": true,
       "type": "dash",
-      "logo": "https://object-streamo.emonaja.com/img/spotv.png",
+      "logo": "https://thumbor.prod.vidiocdn.com/hoP8i7-OI9MdCdOS8urSOimvp94=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg",
       "url": "https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd",
       "desc": "SPOTV 1 DASH+ClearKey (Vision+)",
       "tvgId": "SPOTV 1.vision+",
@@ -1022,6 +1022,22 @@
       "desc": "TVR PARLEMEN HLS",
       "tvgId": "TVR PARLEMEN.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 163,
+      "name": "Sportstars",
+      "cat": "SPORT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",
+      "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd",
+      "desc": "Sportstars DASH+ClearKey (Vision+)",
+      "tvgId": "Sportstars.vision+",
+      "drmType": "ClearKey",
+      "licUrl": "39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
