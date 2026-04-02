@@ -47,7 +47,7 @@
     },
     {
       "id": 102,
-      "name": "RCTI(VS)",
+      "name": "RCTI (VS)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -63,7 +63,7 @@
     },
     {
       "id": 1021,
-      "name": "RCTI(IHT)",
+      "name": "RCTI (IHT)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -77,7 +77,7 @@
     },
     {
       "id": 103,
-      "name": "SCTV(IHT)",
+      "name": "SCTV (IHT)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -91,7 +91,7 @@
     },
     {
       "id": 104,
-      "name": "INDOSIAR(IHT)",
+      "name": "INDOSIAR (IHT)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -105,7 +105,7 @@
     },
     {
       "id": 1051,
-      "name": "TRANSTV(DTK)",
+      "name": "TRANSTV (DTK)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -119,7 +119,7 @@
     },
     {
       "id": 1061,
-      "name": "TRANS7(DTK)",
+      "name": "TRANS7 (DTK)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -133,7 +133,7 @@
     },
     {
       "id": 107,
-      "name": "MNCTV(VS)",
+      "name": "MNCTV (VS)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -149,7 +149,7 @@
     },
     {
       "id": 1071,
-      "name": "MNCTV(IHT)",
+      "name": "MNCTV (IHT)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -163,7 +163,7 @@
     },
     {
       "id": 108,
-      "name": "GTV(IHT)",
+      "name": "GTV (IHT)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -177,7 +177,7 @@
     },
     {
       "id": 108,
-      "name": "GTV(R+)",
+      "name": "GTV (R+)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -191,7 +191,7 @@
     },
     {
       "id": 109,
-      "name": "iNEWS TV",
+      "name": "iNEWS (VS)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -207,7 +207,7 @@
     },
     {
       "id": 111,
-      "name": "MDTV",
+      "name": "MDTV (VS)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -237,7 +237,7 @@
     },
     {
       "id": 114,
-      "name": "Metro TV",
+      "name": "Metro TV (VS)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -253,7 +253,7 @@
     },
     {
       "id": 115,
-      "name": "TV One",
+      "name": "TVOne (VS)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -311,7 +311,7 @@
     },
     {
       "id": 119,
-      "name": "Nusantara TV",
+      "name": "Nusantara TV (IHT)",
       "cat": "NASIONAL",
       "color": "#ffd700",
       "q": "HD",
@@ -325,7 +325,7 @@
     },
     {
       "id": 121,
-      "name": "SindoNews",
+      "name": "SindoNews (IHT)",
       "cat": "NASIONAL",
       "color": "#ffd700",
       "q": "HD",
@@ -339,7 +339,7 @@
     },
     {
       "id": 105,
-      "name": "TRANSTV",
+      "name": "TRANSTV (VS)",
       "cat": "NASIONAL",
       "color": "#7df9ff",
       "q": "HD",
@@ -355,7 +355,7 @@
     },
     {
       "id": 106,
-      "name": "TRANS7",
+      "name": "TRANS7 (VS)",
       "cat": "NASIONAL",
       "color": "#7df9ff",
       "q": "HD",
@@ -371,7 +371,7 @@
     },
     {
       "id": 1081,
-      "name": "GTV Vision+",
+      "name": "GTV (VS)",
       "cat": "NASIONAL",
       "color": "#7df9ff",
       "q": "HD",
@@ -387,7 +387,7 @@
     },
     {
       "id": 130,
-      "name": "TransTV Indihome",
+      "name": "TransTV (IHT)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
@@ -417,7 +417,7 @@
     },
     {
       "id": 110,
-      "name": "HBO",
+      "name": "HBO (IHT)",
       "cat": "MOVIES & ENTERTAINMENT",
       "color": "#e91e8c",
       "q": "HD",
@@ -431,7 +431,7 @@
     },
     {
       "id": 135,
-      "name": "Bioskop Indonesia",
+      "name": "Bioskop Indonesia (IHT)",
       "cat": "MOVIES & ENTERTAINMENT",
       "color": "#e91e8c",
       "q": "HD",
@@ -447,7 +447,7 @@
     },
     {
       "id": 136,
-      "name": "DUNIA LAIN",
+      "name": "DUNIA LAIN (IHT)",
       "cat": "MOVIES & ENTERTAINMENT",
       "color": "#e91e8c",
       "q": "HD",
@@ -463,7 +463,7 @@
     },
     {
       "id": 137,
-      "name": "AXN",
+      "name": "AXN (VS)",
       "cat": "MOVIES & ENTERTAINMENT",
       "color": "#e91e8c",
       "q": "HD",
@@ -479,7 +479,7 @@
     },
     {
       "id": 138,
-      "name": "Galaxy",
+      "name": "Galaxy (VS)",
       "cat": "MOVIES & ENTERTAINMENT",
       "color": "#e91e8c",
       "q": "HD",
@@ -495,7 +495,7 @@
     },
     {
       "id": 141,
-      "name": "CINEMAX",
+      "name": "CINEMAX (IHT)",
       "cat": "MOVIES & ENTERTAINMENT",
       "color": "#e91e8c",
       "q": "HD",
@@ -523,7 +523,7 @@
     },
     {
       "id": 125,
-      "name": "Nickelodeon",
+      "name": "Nickelodeon (VS)",
       "cat": "KIDS",
       "color": "#e91e8c",
       "q": "HD",
@@ -547,7 +547,7 @@
       "type": "dash",
       "logo": "https://i.ibb.co.com/mF7gyWV/cn.png",
       "url": "https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd",
-      "desc": "ANIPLUS DASH+ClearKey (mana2)",
+      "desc": "CARTOON NETWORK DASH+ClearKey (mana2)",
       "tvgId": "CARTOON NETWORK.id",
       "drmType": "ClearKey",
       "licUrl": "7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51",
@@ -555,7 +555,7 @@
     },
     {
       "id": 131,
-      "name": "Dreamworks",
+      "name": "Dreamworks (VS)",
       "cat": "KIDS",
       "color": "#e91e8c",
       "q": "HD",
@@ -571,7 +571,7 @@
     },
     {
       "id": 132,
-      "name": "Dunia anak",
+      "name": "Dunia anak (IHT)",
       "cat": "KIDS",
       "color": "#e91e8c",
       "q": "HD",
@@ -587,7 +587,7 @@
     },
     {
       "id": 133,
-      "name": "Mentari TV",
+      "name": "Mentari TV (IHT)",
       "cat": "KIDS",
       "color": "#e91e8c",
       "q": "HD",
@@ -603,7 +603,7 @@
     },
     {
       "id": 134,
-      "name": "Nick Jr",
+      "name": "Nick Jr (VS)",
       "cat": "KIDS",
       "color": "#e91e8c",
       "q": "HD",
@@ -633,7 +633,7 @@
     },
     {
       "id": 126,
-      "name": "ANIMAX Vision+",
+      "name": "ANIMAX (VS)",
       "cat": "ANIME",
       "color": "#7df9ff",
       "q": "HD",
@@ -649,7 +649,7 @@
     },
     {
       "id": 128,
-      "name": "ANIPLUS IndiHome",
+      "name": "ANIPLUS (IHT)",
       "cat": "ANIME",
       "color": "#ff6eb4",
       "q": "HD",
@@ -721,7 +721,7 @@
     },
     {
       "id": 142,
-      "name": "HBO FAMILY",
+      "name": "HBO FAMILY (IHT)",
       "cat": "MOVIES & ENTERTAINMENT",
       "color": "#e91e8c",
       "q": "HD",
@@ -735,7 +735,7 @@
     },
     {
       "id": 143,
-      "name": "HBO HITS",
+      "name": "HBO HITS (IHT)",
       "cat": "MOVIES & ENTERTAINMENT",
       "color": "#e91e8c",
       "q": "HD",
@@ -777,7 +777,7 @@
     },
     {
       "id": 146,
-      "name": "NBA TV",
+      "name": "NBA TV (IHT)",
       "cat": "SPORT",
       "color": "#e91e8c",
       "q": "HD",
@@ -891,7 +891,7 @@
     },
     {
       "id": 154,
-      "name": "Trans7 Indihome",
+      "name": "Trans7 (IHT)",
       "cat": "NASIONAL",
       "color": "#e91e8c",
       "q": "HD",
