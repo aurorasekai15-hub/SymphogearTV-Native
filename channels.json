@@ -952,6 +952,20 @@
       "drmType": "ClearKey",
       "licUrl": "3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5",
       "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 158,
+      "name": "FIFA SERIES 2026",
+      "cat": "Live Event",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png",
+      "url": "https://dl.dropboxusercontent.com/scl/fi/2tful09bnlutur997dy14/info.mp4?rlkey=ofo83lo3fhargghvqq6g1m6l7&st=o4ecugky",
+      "desc": "FIFA SERIES 2026 HLS",
+      "tvgId": "FIFA SERIES 2026.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
