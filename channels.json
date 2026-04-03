@@ -1178,6 +1178,52 @@
       "drmType": "ClearKey",
       "licUrl": "a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0",
       "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 174,
+      "name": "Maxstream (IHT)",
+      "cat": "MOVIES & ENTERTAINMENT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://images.indihometv.com/images/channels/imageCir_180_x_180__2026_02_12_15_17_01.png",
+      "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_wuseetv.mpd",
+      "desc": "Maxstream DASH+ClearKey (Indihome)",
+      "tvgId": "Maxstream.indihome",
+      "drmType": "ClearKey",
+      "licUrl": "727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 175,
+      "name": "Max.Eats (IHT)",
+      "cat": "MOVIES & ENTERTAINMENT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg",
+      "url": "https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd",
+      "desc": "Max.Eats HLS",
+      "tvgId": "Max.Eats.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 176,
+      "name": "Max.Kids (IHT)",
+      "cat": "MOVIES & ENTERTAINMENT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",
+      "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd",
+      "desc": "Max.Kids DASH+ClearKey (Indihome)",
+      "tvgId": "Max.Kids.indihome",
+      "drmType": "ClearKey",
+      "licUrl": "e27444f671974cefbb5063444ff91ce7:aa4dbc164e4083486b74462b025c42d5",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
