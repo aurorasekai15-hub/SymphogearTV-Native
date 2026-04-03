@@ -1098,6 +1098,38 @@
       "desc": "BABY SHARK TV HLS",
       "tvgId": "BABY SHARK TV.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 168,
+      "name": "ROCK ACTION (VS)",
+      "cat": "MOVIES & ENTERTAINMENT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://cdn1.clickthecity.com/wp-content/uploads/2022/10/10105014/Rock-Action_image-thumb.jpg",
+      "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd",
+      "desc": "ROCK ACTION DASH+ClearKey (Vision+)",
+      "tvgId": "ROCK ACTION.vision+",
+      "drmType": "ClearKey",
+      "licUrl": "d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 169,
+      "name": "GALAXY PREMIUM (VS)",
+      "cat": "MOVIES & ENTERTAINMENT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://stmify.com/wp-content/uploads/2024/10/197-s.webp",
+      "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd",
+      "desc": "GALAXY PREMIUM DASH+ClearKey (Vision+)",
+      "tvgId": "GALAXY PREMIUM.vision+",
+      "drmType": "ClearKey",
+      "licUrl": "0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
