@@ -1326,7 +1326,7 @@
       "drm": false,
       "type": "hls",
       "logo": "https://i.imgur.com/wI0q49n.jpg",
-      "url": "http://172.32.1.88:1935/tvprogram/SONY-PIXHD/playlist.m3u8",
+      "url": "http://103.182.170.32:8888/play/a027",
       "desc": "SONY PIX HLS",
       "tvgId": "SONY PIX.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
