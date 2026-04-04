@@ -1354,7 +1354,7 @@
       "drm": true,
       "type": "dash",
       "logo": "https://www.visionplus.id/images/repository/654/654-LOGO-m.png",
-      "url": "https://fta4-cdn-flr.visionplus.id/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd",
+      "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd",
       "desc": "Sportstars3 DASH+ClearKey (Vision+)",
       "tvgId": "Sportstars3.vision+",
       "drmType": "ClearKey",
