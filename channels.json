@@ -1398,7 +1398,7 @@
       "desc": "ANTV DIGITAL HLS",
       "tvgId": "ANTV DIGITAL.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
-      "menu": "nasional",
+      "menu": "nasional digital",
       "parent": "NASIONAL DIGITAL"
     }
   ],
@@ -1416,7 +1416,7 @@
         "MULTI SPORT"
       },
       {
-        "id": "nasional",
+        "id": "nasional digital",
         "label": "NASIONAL DIGITAL",
         "icon": "NDL",
         "subCategories": [
