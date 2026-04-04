@@ -1414,13 +1414,14 @@
         "BADMINTON",
         "VOLLEYBALL",
         "MULTI SPORT"
-      },
-      {
-        "id": "nasional digital",
-        "label": "NASIONAL DIGITAL",
-        "icon": "NDL",
-        "subCategories": [
-          "NASIONAL SPORT",
+      ]
+    },
+    {
+      "id": "nasional digital",
+      "label": "NASIONAL DIGITAL",
+      "icon": "NDL",
+      "subCategories": [
+        "NASIONAL SPORT"
       ]
     }
   ]
