@@ -1291,7 +1291,7 @@
     },
     {
       "id": 181,
-      "name": "PRIVE",
+      "name": "&PRIVE",
       "cat": "MOVIES & ENTERTAINMENT",
       "color": "#e91e8c",
       "q": "HD",
@@ -1299,13 +1299,13 @@
       "type": "hls",
       "logo": "https://i.imgur.com/T7bGKeV.jpg",
       "url": "https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8",
-      "desc": "PRIVE HLS",
-      "tvgId": "PRIVE.id",
+      "desc": "&PRIVE HLS",
+      "tvgId": "&PRIVE.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     },
     {
       "id": 182,
-      "name": "FLIX",
+      "name": "&FLIX",
       "cat": "MOVIES & ENTERTAINMENT",
       "color": "#e91e8c",
       "q": "HD",
@@ -1313,8 +1313,22 @@
       "type": "hls",
       "logo": "https://i.imgur.com/6YETrUA.jpg",
       "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8",
-      "desc": "FLIX HLS",
-      "tvgId": "FLIX.id",
+      "desc": "&FLIX HLS",
+      "tvgId": "&FLIX.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 183,
+      "name": "SONY PIX",
+      "cat": "MOVIES & ENTERTAINMENT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://i.imgur.com/wI0q49n.jpg",
+      "url": "http://filex.tv:8080//live/Qasim1990/1990qasim/499646.ts",
+      "desc": "SONY PIX HLS",
+      "tvgId": "SONY PIX.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
