@@ -1344,6 +1344,22 @@
       "desc": "SONY ONE HLS",
       "tvgId": "SONY ONE.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 185,
+      "name": "Sportstars3 (VS)",
+      "cat": "SPORT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": true,
+      "type": "dash",
+      "logo": "https://www.visionplus.id/images/repository/654/654-LOGO-m.png",
+      "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd",
+      "desc": "Sportstars3 DASH+ClearKey (Vision+)",
+      "tvgId": "Sportstars3.vision+",
+      "drmType": "ClearKey",
+      "licUrl": "49ec89cc5e464501bde1a46c9011fe79:a2ee204990ea7441771cf6136fd2a7d8",
+      "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
