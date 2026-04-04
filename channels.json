@@ -1388,7 +1388,7 @@
     {
       "id": 186,
       "name": "ANTV DIGITAL",
-      "cat": "NASIONAL",
+      "cat": "NASIONAL SPORT",
       "color": "#e91e8c",
       "q": "HD",
       "drm": false,
@@ -1398,6 +1398,8 @@
       "desc": "ANTV DIGITAL HLS",
       "tvgId": "ANTV DIGITAL.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+      "menu": "nasional",
+      "parent": "NASIONAL DIGITAL"
     }
   ],
   "menus": [
@@ -1412,6 +1414,13 @@
         "BADMINTON",
         "VOLLEYBALL",
         "MULTI SPORT"
+      },
+      {
+        "id": "nasional",
+        "label": "NASIONAL DIGITAL",
+        "icon": "NDL",
+        "subCategories": [
+        "NASIONAL SPORT",
       ]
     }
   ]
