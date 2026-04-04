@@ -1302,6 +1302,20 @@
       "desc": "NETFLIX BOX OFFICE HLS",
       "tvgId": "NETFLIX BOX OFFICE.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 182,
+      "name": "NETFLIX MOVIE",
+      "cat": "MOVIES & ENTERTAINMENT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://i.imgur.com/OzJEtlI.jpg",
+      "url": "http://ktpremium.online:2095/live/akm33333/900820/905949.ts",
+      "desc": "NETFLIX MOVIE HLS",
+      "tvgId": "NETFLIX MOVIE.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
