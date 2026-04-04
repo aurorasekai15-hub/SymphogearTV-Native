@@ -1004,7 +1004,7 @@
       "drm": false,
       "type": "hls",
       "logo": "https://awsimages.detik.net.id/visual/2018/02/08/707668e4-5770-4679-9b4b-9ff343b68eb6_169.jpeg?w=650",
-      "url": "http://my.bianet.es.vip.hk:80///12/F36591/3f1a2b5c/162137",
+      "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8",
       "desc": "CNBC HLS",
       "tvgId": "CNBC.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
@@ -1288,6 +1288,20 @@
       "drmType": "ClearKey",
       "licUrl": "be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4",
       "ua": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
+    },
+    {
+      "id": 181,
+      "name": "NETFLIX BOX OFFICE",
+      "cat": "MOVIES & ENTERTAINMENT",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "https://i.imgur.com/Uj5yeLw.jpg",
+      "url": "http://ktpremium.online:2095/live/akm33333/900820/905947.ts",
+      "desc": "NETFLIX BOX OFFICE HLS",
+      "tvgId": "NETFLIX BOX OFFICE.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
 }
