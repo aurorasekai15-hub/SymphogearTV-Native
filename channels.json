@@ -1319,16 +1319,16 @@
     },
     {
       "id": 183,
-      "name": "SONY PIX",
+      "name": "RAKUTEN TV",
       "cat": "MOVIES & ENTERTAINMENT",
       "color": "#e91e8c",
       "q": "HD",
       "drm": false,
       "type": "hls",
-      "logo": "https://i.imgur.com/wI0q49n.jpg",
-      "url": "http://103.182.170.32:8888/play/a027",
-      "desc": "SONY PIX HLS",
-      "tvgId": "SONY PIX.id",
+      "logo": "https://i.imgur.com/pkxQ0EY.jpg",
+      "url": "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8",
+      "desc": "RAKUTEN TV HLS",
+      "tvgId": "RAKUTEN TV.id",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ]
