@@ -1401,6 +1401,20 @@
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0",
       "menu": "nasional digital",
       "parent": "NASIONAL DIGITAL"
+    },
+    {
+      "id": 187,
+      "name": "Animal Planet",
+      "cat": "KIDS",
+      "color": "#e91e8c",
+      "q": "HD",
+      "drm": false,
+      "type": "hls",
+      "logo": "http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png",
+      "url": "http://202.169.224.202:8800/udp/239.9.1.7:1234",
+      "desc": "Animal Planet HLS",
+      "tvgId": "Animal Planet.id",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0"
     }
   ],
   "menus": [
