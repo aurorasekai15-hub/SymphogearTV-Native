@@ -620,7 +620,7 @@
     {
       "id": 127,
       "name": "ANIMAX JAPAN",
-      "cat": "ANIME",
+      "cat": "JAPAN",
       "color": "#f97316",
       "q": "HD",
       "drm": false,
@@ -634,7 +634,7 @@
     {
       "id": 126,
       "name": "ANIMAX (VS)",
-      "cat": "ANIME",
+      "cat": "KIDS",
       "color": "#7df9ff",
       "q": "HD",
       "drm": true,
@@ -650,7 +650,7 @@
     {
       "id": 128,
       "name": "ANIPLUS (IHT)",
-      "cat": "ANIME",
+      "cat": "KIDS",
       "color": "#ff6eb4",
       "q": "HD",
       "drm": true,
